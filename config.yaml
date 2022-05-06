@@ -180,7 +180,7 @@ languages:
     # See example below:
     params:
       homepage:
-        title: 刘书宁
+        title: Julia белая краска
         subtitle: Персональный сайт и блог
         image: "/images/avataaars.png" # worker.svg 
         imageWidth: 500px
